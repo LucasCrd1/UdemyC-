@@ -15,9 +15,9 @@
             Balance = balance;
         }
 
-        public void Withdraw(double amount)
+        public virtual void Withdraw(double amount) // Virtual, signifca que esse método pode ser sobrescrito na subclasse
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)
