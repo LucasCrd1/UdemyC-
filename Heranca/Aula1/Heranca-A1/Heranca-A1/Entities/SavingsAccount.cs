@@ -1,6 +1,6 @@
 ﻿namespace Heranca_A1.Entities
 {
-    internal class SavingsAccount : Account
+    sealed class SavingsAccount : Account // "sealed" n permite q a classe seja herdada 
     {
         public double InterestRate { get; set; }
         
@@ -15,7 +15,7 @@
         {
             Balance += Balance * InterestRate;
         }
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount) // Essa operãção não pode ser sobrescrita novamente em outra subclasse 
         {
             base.Withdraw(amount);
             Balance -= 2.0;
