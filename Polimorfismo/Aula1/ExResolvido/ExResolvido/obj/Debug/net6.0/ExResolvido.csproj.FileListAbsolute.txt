@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\bin\Debug\net6.0\ExResolvido.exe
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\bin\Debug\net6.0\ExResolvido.deps.json
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\bin\Debug\net6.0\ExResolvido.runtimeconfig.json
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\bin\Debug\net6.0\ExResolvido.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\bin\Debug\net6.0\ExResolvido.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\refint\ExResolvido.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ExResolvido.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Polimorfismo\Aula1\ExResolvido\ExResolvido\obj\Debug\net6.0\ref\ExResolvido.dll
