@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\bin\Debug\net6.0\ExResolv.exe
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\bin\Debug\net6.0\ExResolv.deps.json
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\bin\Debug\net6.0\ExResolv.runtimeconfig.json
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\bin\Debug\net6.0\ExResolv.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\bin\Debug\net6.0\ExResolv.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\refint\ExResolv.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ExResolv.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\ExResolv\ExResolv\ExResolv\obj\Debug\net6.0\ref\ExResolv.dll
