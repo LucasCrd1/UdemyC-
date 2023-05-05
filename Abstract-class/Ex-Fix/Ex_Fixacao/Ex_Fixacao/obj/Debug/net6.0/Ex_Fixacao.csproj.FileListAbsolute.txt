@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\bin\Debug\net6.0\Ex_Fixacao.exe
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\bin\Debug\net6.0\Ex_Fixacao.deps.json
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\bin\Debug\net6.0\Ex_Fixacao.runtimeconfig.json
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\bin\Debug\net6.0\Ex_Fixacao.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\bin\Debug\net6.0\Ex_Fixacao.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\refint\Ex_Fixacao.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\Ex_Fixacao.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Abstract-class\Ex-Fix\Ex_Fixacao\Ex_Fixacao\obj\Debug\net6.0\ref\Ex_Fixacao.dll
