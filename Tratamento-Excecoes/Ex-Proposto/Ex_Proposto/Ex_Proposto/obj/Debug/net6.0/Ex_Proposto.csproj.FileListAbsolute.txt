@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\bin\Debug\net6.0\Ex_Proposto.exe
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\bin\Debug\net6.0\Ex_Proposto.deps.json
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\bin\Debug\net6.0\Ex_Proposto.runtimeconfig.json
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\bin\Debug\net6.0\Ex_Proposto.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\bin\Debug\net6.0\Ex_Proposto.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\refint\Ex_Proposto.dll
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.pdb
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\Ex_Proposto.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Udemy-C#\Tratamento-Excecoes\Ex-Proposto\Ex_Proposto\Ex_Proposto\obj\Debug\net6.0\ref\Ex_Proposto.dll
